@@ -1,4 +1,5 @@
 module.exports = {
+  // npm i -D @typescript-eslint/parser eslint-plugin-react eslint-plugin-react-hooks --legacy-peer-deps
   parser: "@typescript-eslint/parser",
   parserOptions: {
     project: "tsconfig.json",
